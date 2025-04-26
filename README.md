@@ -1,6 +1,6 @@
 # canada-construction-trends
 
-🇨🇦 Canada Construction Industry Trends Dashboard
+Canada Construction Industry Trends Dashboard
 📚 Project Description
 This project aims to create an interactive Power BI dashboard that visualizes the current state and historical trends of Canada's construction industry.
 Key focus areas include:
