@@ -1,5 +1,5 @@
 # Canada Construction Industry Trends Dashboard
-📚 Project Description
+# Project Description
 This project aims to create an interactive Power BI dashboard that visualizes the current state and historical trends of Canada's construction industry.
 Key focus areas include:
 
@@ -7,11 +7,11 @@ Employment Trends
 
 GDP Contribution of Construction
 
-Housing Starts
+# Housing Starts
 
 The project will incorporate automated data ingestion, cloud storage, data transformation, and interactive reporting, with future plans to add machine learning analysis and recommendations.
 
-🎯 Project Goals
+# Project Goals
 ✅ Source real-world construction data from Statistics Canada.
 
 ✅ Automate data ingestion (via API or scraping methods).
@@ -26,14 +26,14 @@ The project will incorporate automated data ingestion, cloud storage, data trans
 
 🚀 Explore ML-driven trend forecasting and insights (stretch goal).
 
-📈 KPIs Tracked
+# KPIs Tracked
 Employment Trends (by sector and region)
 
 GDP Trends (Construction sector contribution)
 
 Housing Starts (Number of new construction projects)
 
-🛠️ Tech Stack
+# Tech Stack
 Data Source: Statistics Canada
 
 Ingestion: API (if available) / Web scraping / Manual CSV download (initial)
@@ -48,7 +48,7 @@ Version Control: GitHub
 
 (Future Expansion): Kafka, Azure Data Warehouse, ML (Python)
 
-📂 Project Structure
+# Project Structure
 bash
 Copy
 Edit
@@ -70,6 +70,6 @@ canada-construction-trends/
 
  Start basic Power BI visualizations
 
-✍️ Notes
+# Notes
 This README will be updated as the project evolves.
 
