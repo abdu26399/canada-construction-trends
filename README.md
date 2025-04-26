@@ -7,7 +7,7 @@ Employment Trends
 
 GDP Contribution of Construction
 
-# Housing Starts
+Housing Starts
 
 The project will incorporate automated data ingestion, cloud storage, data transformation, and interactive reporting, with future plans to add machine learning analysis and recommendations.
 
